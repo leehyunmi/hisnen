@@ -1,0 +1,38 @@
+# Site settings
+title: L.hyun blog
+description: "광고와 디지털 마케팅 내용을 다룹니다."
+url: "https://hisnen.com"
+author:
+  name: "Lhyun"
+  email: "hisnen@naver.com"
+  url: "https://hisnen.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
