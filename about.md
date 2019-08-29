@@ -1,21 +1,17 @@
 ---
 layout: page
-title: About Emerald
+title: About
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+![](https://scontent-gmp1-1.xx.fbcdn.net/v/t1.0-9/1383708_790342411029553_4239665341192597384_n.jpg?_nc_cat=108&_nc_oc=AQkVKycvg7YvqWjhmEfv1yuSFeMkNA35SyksagD8ipYcRM1NyqU_Ttp8Q5c1Voh006E&_nc_ht=scontent-gmp1-1.xx&oh=68c78a80f7445c7af48ed82f84ddb1ed&oe=5E0D25A2)
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+안녕하세요.
 
-![Emerald](img/Emerald01.png "Emerald")
+부족한 식견으로 **여러가지 마케팅과 광고에 대해 이야기**를 하고자 합니다.
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+**보시기에 상당히 어줍짢을 수도.. 가짢을수도 있지만**
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+오.. 음.. 이런 생각도 있구나, 마케팅&광고를 이런 시각으로도 
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
+볼 수 있구나로 봐주시길 부탁드립니다.
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!

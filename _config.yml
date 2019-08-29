@@ -8,6 +8,10 @@ author:
   email: "hisnen@naver.com"
   url: "https://hisnen.com"
 
+# 블로그 disqus shortname
+disqus:
+  shortname: www-hisnen-com
+
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown

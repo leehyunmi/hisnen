@@ -7,9 +7,7 @@ permalink: /vegan-trend-EX/
 image:
   feature: eco1.png
 categories:
-  - 마케팅
-  - trend
-  - 기업사례
+  - Trend
 tags:
   - 밀레니얼세대
   - 트렌드
