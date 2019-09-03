@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 ## About
-![](https://scontent-gmp1-1.xx.fbcdn.net/v/t1.0-9/1383708_790342411029553_4239665341192597384_n.jpg?_nc_cat=108&_nc_oc=AQkVKycvg7YvqWjhmEfv1yuSFeMkNA35SyksagD8ipYcRM1NyqU_Ttp8Q5c1Voh006E&_nc_ht=scontent-gmp1-1.xx&oh=68c78a80f7445c7af48ed82f84ddb1ed&oe=5E0D25A2)
-
 안녕하세요.
 
 부족한 식견으로 **여러가지 마케팅과 광고에 대해 이야기**를 하고자 합니다.
