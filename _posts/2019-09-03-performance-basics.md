@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 퍼포먼스 일단 이것부터 도장 깨보자.
+title: 
 date: 2019-09-03 14:28:00 +09:00
 author: "L.hyun"
 permalink: /performance-basics/
 image:
-  feature: per1.jpg
+  feature: per1.png
 categories:
   - marketing
 tags:

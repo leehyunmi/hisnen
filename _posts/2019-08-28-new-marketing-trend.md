@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 세계적으로 불고 있는 새로운 마케팅 트렌드를 소개 합니다.
+title: 
 date: 2019-08-28 21:05:00 +09:00
 author: "L.hyun"
 permalink: /vegan-trend-EX/
