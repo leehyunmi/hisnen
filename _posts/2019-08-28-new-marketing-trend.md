@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "New Marketing Trend : Vegan Trend"
 date: 2019-08-28 21:05:00 +09:00
 author: "L.hyun"
 permalink: /vegan-trend-EX/
@@ -16,8 +16,6 @@ tags:
   - 채식 
 description: 전 세계적으로 마케팅 부분에서 중요하게 생각하고 있는 환경보호 트렌드를 활용한 기업 사례를 다룹니다.
 ---
-
-# 세계적으로 불고 있는 새로운 마케팅 트렌드를 소개 합니다.
 
 ![환경](https://lh3.googleusercontent.com/Hwt6bJ4vwPoI6bfIqiLe_0IUU5SLOkh3y98h0AEIS_g4-EZW-cCyCfwSs9Bphq9868DbRlKYRsX7Lh1-vPbdAD_ZvzfF5M_fBNWRsc99Bk6fhNwTY6LDcL_I0qMZLSOOxQeLzuzUkXAcYB2SyOChxyEps9ksEF6UVqJxBmSouiamL0VmET8KOZ0_ioJ4zbJFpYNS072h8GLPDTGkY9gD9Njtk9cfqC5dYlvSU3ewjrzP5ulcFmjP7VA3Xi1tSNYuRGXQgCq7W-nRBxkcAMhkmYgqaYHJJRGoJ7WBTCxaoWL4VEIArt7yojfn_ohdRba7IABB4Z2LoyK-MoCtxBOgRHnoQSy1EP-zk31vS3NIwGD8uon8x4rr3VVvtxfJ0rpNif8ynpYQFhhwp20A4FQ3J8o0tJvKjRoGOsk_jtPO1xZyb4Vp5XYOkHXPIakYJVfQLLwo0lhfK6t83QjI3Pe8_rPZ3pZHQvpQ_aVKkj83owP_bg2TK0q5nRNWWW8WgjLLGnf4cOz4Su0eAEZVRxpNyRJWvArp_MgQdZg5oG7OG10AFawUqNdMNHF5352eaR5Lt-q3okd2OJx2CLGcUNY8i0VCoCtTuiu05DCaTRiT2Ch4NVMhZ-1pC1yZvGtP9dceeI03PxGQHKVBz4MG4SdM9wY94BF1uro=s650-no)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "#1. 퍼포먼스 일단 이것부터 도장 깨보자."
 date: 2019-09-03 14:28:00 +09:00
 author: "L.hyun"
 permalink: /performance-basics/
@@ -15,8 +15,6 @@ tags:
   - 광고지표
 description: 마케팅을 하면 보고서에 적혀있는 다양한 지표들이 있죠. 이 지표들이 무엇을 말을 하고 어떤 의미를 가지고 있는지에 대해 다뤄보려고 합니다.
 ---
-
-# 퍼포먼스 일단 이것부터 도장 깨보자.
 
 ![비즈니스](https://lh3.googleusercontent.com/HxJrc4ChIXKeXFTbupUaomGW77XSvD992dG3jJpKdG2VbUJvSL94HbbjSU3HNnAocUiAJ6E5rYDGftHtAcLBnPn1fKL_bfj8N5Q5uNVaRFJIZM0V3RK5sKA0SH59--cRyPup2YqvPNDihHfglrf5pO5oFliksRl5O_vYEmoOmlK9I1MBBaa0huG_8ILI0Yeha-8gCbdCDDR9-9WKnthxkY09bFS0Y3Y6MkAICIcPdd4oJWkMCnuXPBCi7Zjm39_BrkKrjYtr11h7p-tiajEaLy--yFL72g2JhaMSzYsrkYGyw4oWwVqk-h-tNh5rAY4henFDjh5trxgGQ0XgYpz_XGm4qb3ixNkHLZKHObNTOq4DTgG87gVTokgYeiEFYIUODXlb8c7OBNjqFuRKTo0o-PL6by8o3Zf8u02aS0-cVJ5EvB2g7r9rNu2_1hWt0UAd0SzIVJti-b9cWVpivYTfPeBBOsDO-azSBHAmNYL7rLBeit8NpcySd2Ryr3E95uEPy03rfx_HDSDnKxBxB_AowAvrVB0L1QlxXhwochgplduGa9qeNKOIaA3PAsJUpjc0fMoYT-SDtmzvTb4rFEa4gT0DuBL8PVQzTIHePzV51Dm9gv9VvtE3ZyawhrO08l8NOKrnfUxp4l6vmRFA9-CwqC1MDO2j18Qxatzcvo26vAkwqSQOhAzS2TE=w1200-h628-no)
 
