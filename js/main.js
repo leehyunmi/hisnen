@@ -41,7 +41,10 @@ function menuClick() {
 menuClick();
 
 <script>
+ document.getElementsByClassName("post-title").innerText = post-title
+ function post-title() {
 	fbq('track', 'ViewContent',{
-	'content_title':document.getElementsByClassName("post-title").innerText
+	'content_title': post-title
 	 });
+ }
 </script>
