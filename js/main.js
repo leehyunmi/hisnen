@@ -11,7 +11,7 @@ function toggle() {
 
 	  var button = document.getElementById("menu");
 	  var site = document.getElementById("wrap");
-	  
+
 	  if (nav.className == "menu-open" || nav.className == "menu-open-left") {
 	  	  nav.className = "";
 	  	  button.className = "";
@@ -39,3 +39,9 @@ function menuClick() {
 }
 
 menuClick();
+
+<script>
+	fbq('track', 'ViewContent',{
+	'content_title':document.getElementsByClassName("post-title").innerText
+	 });
+</script>

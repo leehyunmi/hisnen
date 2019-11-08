@@ -120,10 +120,8 @@
 	<meta name="theme-color" content="#ffffff">
 
   <script>
-    document.getElementById('post').onclick = fb_ViewContent;
-    function fb_ViewContent() {
     fbq('track', 'ViewContent',{
-    'content_title':document.getElementsById("post").innerText
+    'content_title':document.getElementsByClassName("post-title").innerText
      });
   </script>
 
