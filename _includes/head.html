@@ -1,11 +1,5 @@
 <head>
 
-  <script>
-   fbq('track', 'ViewContent',{
-    'content':document.getElementsByClassName("post-title")[0].innerText
-     });
-  </script>
-
   <!-- Facebook Pixel Code -->
   <script>
     !function(f,b,e,v,n,t,s)
@@ -124,5 +118,13 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="{{ site.github.url }}/img/icon/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
+
+  <script>
+   document.getElementById('post-page').onclick = fb_ViewContent;
+   function fb_ViewContent() {
+    fbq('track', 'ViewContent',{
+    'content':document.getElementsByClassName("post-title")[0].innerText
+     });
+  </script>
 
 </head>
