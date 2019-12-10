@@ -15,6 +15,14 @@
 	<meta name="generator" content="Jekyll">
   <meta name="naver-site-verification" content="f96ef62d7018ebb544737a6a47589a252e2b0685"/>
 
+  <script>
+    dataLayer = [{
+      'event': 'ViewContent',
+      'content_name': '{{ page.content_id }}',
+      'content_title': '{{ page.title }}',
+    }];
+  </script>
+
 	<title>
 		{%if page.title %}
 			{{ page.title }} | {{ site.title }}
