@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "New Marketing Trend : Vegan Trend"
-content_id: "0"
 date: 2019-08-28 21:05:00 +09:00
 author: "L.hyun"
 permalink: /vegan-trend-EX/

@@ -44,6 +44,9 @@
 	  {% else %}
 	    <meta property="og:type" content="website" />
 	  {% endif %}
+    {% if page.content_id %}
+    <meta property="article:content_id" content="{{page.content_id}}" />
+    {% endif %}
 	  {% if page.description %}
 	    <meta name="description" content="{{ page.description }}" />
 	    <meta property="og:description" content="{{ page.description }}" />
