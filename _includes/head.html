@@ -15,13 +15,15 @@
 	<meta name="generator" content="Jekyll">
   <meta name="naver-site-verification" content="f96ef62d7018ebb544737a6a47589a252e2b0685"/>
 
+  {% if page.content_id %}
   <script>
-    dataLayer = [{
-      'event': 'ViewContent',
-      'content_name': '{{ page.content_id }}',
-      'content_title': '{{ page.title }}',
-    }];
+      dataLayer = [{
+        'event': 'ViewContent',
+        'content_name': '{{ page.content_id }}',
+        'content_title': '{{ page.title }}'
+      }];
   </script>
+  {% endif %}
 
 	<title>
 		{%if page.title %}
