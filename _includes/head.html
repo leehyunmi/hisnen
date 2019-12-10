@@ -17,11 +17,12 @@
 
   {% if page.content_id %}
   <script>
-      dataLayer = [{
+     window.dataLayer = window.dataLayer || [];
+      dataLayer.push({
         'event': 'ViewContent',
         'content_name': '{{ page.content_id }}',
-        'content_title': '{{ page.title }}'
-      }];
+        'content_title': '{{ page.title }}',
+      });
   </script>
   {% endif %}
 
