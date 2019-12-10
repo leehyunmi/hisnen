@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#1. 퍼포먼스 일단 이것부터 도장 깨보자."
-content_id: "1"
+content_id: 1
 date: 2019-09-03 14:28:00 +09:00
 author: "L.hyun"
 permalink: /performance-basics/
